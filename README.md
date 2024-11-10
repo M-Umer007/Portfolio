@@ -21,28 +21,16 @@ git clone https://github.com/M-Umer007/Portfolio.git
 cd Portfolio
 
 
-Install dependencies:
+#Install dependencies:
 bash
 
-npm install
+#npm install
 Run the project locally:
 bash
 
-npm run dev
+#npm run dev
 Visit http://localhost:3000 in your browser.
 
-Folder Structure
-plaintext
 
-├── public/
-│   ├── images/          # Images for the portfolio
-│   ├── favicon.ico      # Favicon for the site
-├── src/
-│   ├── components/      # React components (e.g., Header, Footer, etc.)
-│   ├── app/             # Pages and routing (Next.js)
-│   └── styles/          # Global styles (CSS or Tailwind configuration)
-├── .gitignore           # Git ignore file
-├── next.config.js       # Next.js configuration
-└── README.md            # This file
-License
+# License
 This project is open-source and available under the MIT License.
