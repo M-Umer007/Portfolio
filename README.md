@@ -1,10 +1,10 @@
-#Portfolio
+# Portfolio
 Welcome to my personal portfolio website! This is a showcase of my projects, skills, and experiences as a web developer. It features various web development projects, including static websites, to-do apps, and more.
 
-##Live Demo
+## Live Demo
 You can view the live version of my portfolio here.
 
-###Features
+### Features
 Responsive Design: The portfolio is fully responsive and looks great on all devices, from mobile phones to desktops.
 Project Showcases: It includes detailed sections about each project, including descriptions, demos, and images.
 Interactive Elements: Hover effects, smooth transitions, and more for a dynamic user experience.
@@ -12,7 +12,7 @@ Technologies Used:
 Frontend: HTML, CSS, Tailwind CSS, JavaScript/TypeScript, Next.js
 Deployment: Deployed using Vercel.
 
-####Installation
+#### Installation
 Clone the repository to your local machine:
 
 bash
