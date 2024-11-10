@@ -1,5 +1,5 @@
 import '../globals.css'; // Ensure this includes Tailwind imports\
-import Button from './components/Button/page';
+import Button from './components/Button/button';
 export default function AllProjects() {
     return (
 
