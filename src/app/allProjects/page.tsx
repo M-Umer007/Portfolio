@@ -118,7 +118,7 @@ export default function AllProjects() {
                                     <div>Todo app</div>
                                 </td>
                                 <td>
-                                    <div className='mt-2 text-sm leading-normal'>My Todo app its not very much but the logic behind it and how I come up with it is the thing that made it one of my personal favourite projects .Everyone make it so I thought why not me?</div>
+                                    <div className='mt-2 text-sm leading-normal'>My Todo app its not very much but the logic behind it and how I come up with it is the thing that made it one of my personal favourite projects .</div>
                                 </td>
                                 <td className='hidden sm:block'>
                                     <div> <a href="https://todo-list-in-next-js.vercel.app/">Todo Webapp Link </a></div>
@@ -137,7 +137,7 @@ export default function AllProjects() {
                                     <div>ANIMATION ART GALLERY</div>
                                 </td>
                                 <td>
-                                    <div className='mt-2 text-sm leading-normal'>My Todo app its not very much but the logic behind it and how I come up with it is the thing that made it one of my personal favourite projects .Everyone make it so I thought why not me?</div>
+                                    <div className='mt-2 text-sm leading-normal'>My animation art gallery showcases a simple, visually engaging display using just HTML and CSS. Although non-functional, it’s a dynamic layout where each artwork subtly animates, giving a sneak peek into interactive art displays.</div>
                                 </td>
                                 <td className='hidden sm:block'>
                                     <div> <a href="https://animation-css-gallery.vercel.app/">GALLERY LINK </a></div>
