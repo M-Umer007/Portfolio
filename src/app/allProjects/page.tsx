@@ -50,7 +50,7 @@ export default function AllProjects() {
                                      </div>
                                     </td>
                                      <td>
-                        <div className='mt-2 text-sm leading-normal' >A static webpage built using HTML and CSS. While it doesn't feature any groundbreaking functionality yet, I plan to enhance it with more interactive elements in the future.</div>
+                        <div className='mt-2 text-sm leading-normal' >A static webpage built using HTML and CSS. While it doesn&apos;t feature any groundbreaking functionality yet, I plan to enhance it with more interactive elements in the future.</div>
                                     </td>
                                     <td className='hidden sm:block'>
                                     <div>
@@ -107,7 +107,7 @@ export default function AllProjects() {
                                     </td>
                 
                                     <td>
-                                     <div className='mt-2 text-sm leading-normal'> A fun and engaging quiz game that generates random questions to test your general knowledge. It's a great way to challenge yourself or make it a fun family activity.</div>
+                                     <div className='mt-2 text-sm leading-normal'> A fun and engaging quiz game that generates random questions to test your general knowledge. It&apos;s a great way to challenge yourself or make it a fun family activity.</div>
                                     </td>
                 
                                     <td className='hidden sm:block'>
