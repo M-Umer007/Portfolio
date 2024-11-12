@@ -6,33 +6,33 @@ You can view the live version of my portfolio here.
 **[Live Demo](https://portfolio-weld-nine-35.vercel.app/)**
 
 
-### Features
-Responsive Design: The portfolio is fully responsive and looks great on all devices, from mobile phones to desktops.
-Project Showcases: It includes detailed sections about each project, including descriptions, demos, and images.
-Interactive Elements: Hover effects, smooth transitions, and more for a dynamic user experience.
-Technologies Used:
-Frontend: HTML, CSS, Tailwind CSS, JavaScript/TypeScript, Next.js
-Deployment: Deployed using Vercel.
+### Features <br/>
+Responsive Design: The portfolio is fully responsive and looks great on all devices, from mobile phones to desktops. <br/>
+Project Showcases: It includes detailed sections about each project, including descriptions, demos, and images. <br/>
+Interactive Elements: Hover effects, smooth transitions, and more for a dynamic user experience. <br/>
+Technologies Used: <br/>
+Frontend: HTML, Tailwind CSS, JavaScript/TypeScript,React Next.js <br/>
+Deployment: Deployed using Vercel. <br/>
 
-#### Installation
-Clone the repository to your local machine:
+#### Installation <br/>
+Clone the repository to your local machine: <br/>
 
-bash
+bash <br/>
 
-git clone https://github.com/M-Umer007/Portfolio.git
-cd Portfolio
-
-
-#Install dependencies:
-bash
-
-#npm install
-Run the project locally:
-bash
-
-#npm run dev
-Visit http://localhost:3000 in your browser.
+git clone https://github.com/M-Umer007/Portfolio.git <br/>
+cd Portfolio <br/>
 
 
-# License
-This project is open-source and available under the MIT License.
+#Install dependencies: <br/>
+bash <br/>
+
+#npm install <br/>
+Run the project locally: <br/>
+bash <br/>
+ 
+#npm run dev <br/>
+Visit http://localhost:3000 in your browser. <br/>
+
+
+# License <br/>
+This project is open-source and available under the MIT License. <br/>
