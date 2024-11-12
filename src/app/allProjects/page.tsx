@@ -42,10 +42,15 @@ export default function AllProjects() {
                                     <tbody className="text-white ">
                                 <tr>
                                     <td className="py-4 pr-4 align-top text-sm">
-                                    <div>Static Blog </div>
+                                    <div>
+
+                                        <a href="https://static-blog-webpage.vercel.app/" className='sm:pointer-events-none sm:cursor-default' >Static Blog</a>
+                                       
+                                        
+                                     </div>
                                     </td>
                                      <td>
-                        <div className='mt-2 text-sm leading-normal' >A Static webpage using html css it donot currently have any mindblowing functionality but i will surely work it out and make something out of it</div>
+                        <div className='mt-2 text-sm leading-normal' >A static webpage built using HTML and CSS. While it doesn't feature any groundbreaking functionality yet, I plan to enhance it with more interactive elements in the future.</div>
                                     </td>
                                     <td className='hidden sm:block'>
                                     <div>
@@ -69,10 +74,13 @@ export default function AllProjects() {
                 
                                 <tr>
                                     <td className="py-4 pr-4 align-top text-sm">
-                        <div>Resume generator</div>
+                        <div>
+                        <a href="https://resume-generator-gamma.vercel.app/" className='sm:pointer-events-none sm:cursor-default' >     Resume generator</a>
+                            
+                            </div>
                                     </td>
                                     <td>
-                                     <div className='mt-2 text-sm leading-normal'>Will generate a resume based on the datails provided by the user its speciality is that it is super easy to use and work out everything like magic
+                                     <div className='mt-2 text-sm leading-normal'> This resume generator creates a professional resume based on user-provided details. Its standout feature is its user-friendly interface, which simplifies the resume-building process to almost feel like magic.
                                     </div>
                                     </td>
                 
@@ -93,11 +101,13 @@ export default function AllProjects() {
                 
                                 <tr>
                                     <td className="py-4 pr-4 align-top text-sm">
-                        <div>Quiz Website</div>
+                        <div>
+                        <a href="https://quiz-game-sigma-woad.vercel.app/" className='sm:pointer-events-none sm:cursor-default' > Quiz Website</a>
+                            </div>
                                     </td>
                 
                                     <td>
-                                     <div className='mt-2 text-sm leading-normal'>A Simple and fun quiz game that will generate random question it tests your general knowledge could be a fun family activity if you know how to make things work out</div>
+                                     <div className='mt-2 text-sm leading-normal'> A fun and engaging quiz game that generates random questions to test your general knowledge. It's a great way to challenge yourself or make it a fun family activity.</div>
                                     </td>
                 
                                     <td className='hidden sm:block'>
@@ -115,10 +125,12 @@ export default function AllProjects() {
                              </tr>
                             <tr>
                                 <td className="py-4 pr-4 align-top text-sm">
-                                    <div>Todo app</div>
+                                    <div>
+                                    <a href="https://todo-list-in-next-js.vercel.app/" className='sm:pointer-events-none sm:cursor-default' > Todo app</a>
+                                       </div>
                                 </td>
                                 <td>
-                                    <div className='mt-2 text-sm leading-normal'>My Todo app its not very much but the logic behind it and how I come up with it is the thing that made it one of my personal favourite projects .</div>
+                                    <div className='mt-2 text-sm leading-normal'> My To-Do app may be simple, but the logic and thought process behind it make it one of my favorite personal projects.</div>
                                 </td>
                                 <td className='hidden sm:block'>
                                     <div> <a href="https://todo-list-in-next-js.vercel.app/">Todo Webapp Link </a></div>
@@ -134,10 +146,13 @@ export default function AllProjects() {
                             </tr>
                             <tr>
                                 <td className="py-4 pr-4 align-top text-sm">
-                                    <div>ANIMATION ART GALLERY</div>
+                                    <div>
+                                    <a href="https://animation-css-gallery.vercel.app/" className='sm:pointer-events-none sm:cursor-default' >ANIMATION ART GALLERY</a>
+                                        </div>
                                 </td>
                                 <td>
-                                    <div className='mt-2 text-sm leading-normal'>My animation art gallery showcases a simple, visually engaging display using just HTML and CSS. Although non-functional, it’s a dynamic layout where each artwork subtly animates, giving a sneak peek into interactive art displays.</div>
+                                    <div className='mt-2 text-sm leading-normal'>This animation art gallery is a visually engaging showcase created using only HTML and CSS. While it’s non-functional, it features a dynamic layout where each artwork subtly animates, creating an interactive art display.
+                                    </div>
                                 </td>
                                 <td className='hidden sm:block'>
                                     <div> <a href="https://animation-css-gallery.vercel.app/">GALLERY LINK </a></div>

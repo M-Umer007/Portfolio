@@ -26,7 +26,7 @@ function Home() {
                
             </div>
 
-            <div className='lg: col-start-2 row-start-1  w-full h-full' >
+            <div className='lg: col-start-2 row-start-1  w-full h-full ' >
                <Aboutsection/>
               </div>
         
