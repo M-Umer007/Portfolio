@@ -151,7 +151,7 @@ export default function AllProjects() {
                                         </div>
                                 </td>
                                 <td>
-                                    <div className='mt-2 text-sm leading-normal'>This animation art gallery is a visually engaging showcase created using only HTML and CSS. While it’s non-functional, it features a dynamic layout where each artwork subtly animates, creating an interactive art display.
+                                    <div className='mt-2 text-sm leading-normal'>This animation art gallery is a visually engaging showcase created using only HTML and CSS. While it&apos;s non-functional, it features a dynamic layout where each artwork subtly animates, creating an interactive art display.
                                     </div>
                                 </td>
                                 <td className='hidden sm:block'>
@@ -161,6 +161,29 @@ export default function AllProjects() {
                                 <ul>
                                 <li><Button>Html</Button></li>
                                 <li><Button>CSS</Button></li>
+                
+                            </ul>
+                                    </td>
+                            </tr>
+                            <tr>
+                                <td className="py-4 pr-4 align-top text-sm">
+                                    <div>
+                                    <a href="https://umer-blog-website.vercel.app/" className='sm:pointer-events-none sm:cursor-default' >Enhanced Blog Website</a>
+                                        </div>
+                                </td>
+                                <td>
+                                    <div className='mt-2 text-sm leading-normal'>A sleek and responsive blog website showcasing modern design and seamless navigation, built using Next.js, TypeScript, and Tailwind CSS. Optimized for performance, it delivers a dynamic user experience with static content generation.
+                                    </div>
+                                </td>
+                                <td className='hidden sm:block'>
+                                    <div> <a href="https://umer-blog-website.vercel.app/">Blog Website Link </a></div>
+                                </td>
+                                <td className='hidden sm:block'>
+                                <ul>
+                                <li><Button>Typescript</Button></li>
+                                <li><Button>TailwindCSS</Button></li>
+                                <li><Button>React</Button></li>
+                                <li><Button>Next.js</Button></li>
                 
                             </ul>
                                     </td>
