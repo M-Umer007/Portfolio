@@ -38,8 +38,9 @@ export default function AllProjects() {
                                 {/* <th className="hidden py-4 pr-12 text-sm font-semibold text-slate-200 lg:block">Built with</th> */}
                                     </tr>
                             </thead>
-                
+               
                                     <tbody className="text-white ">
+                                         {/* project1 */}
                                 <tr>
                                     <td className="py-4 pr-4 align-top text-sm">
                                     <div>
@@ -71,7 +72,7 @@ export default function AllProjects() {
                 
                                     </td>
                                  </tr>
-                
+                {/* project2 */}
                                 <tr>
                                     <td className="py-4 pr-4 align-top text-sm">
                         <div>
@@ -98,7 +99,7 @@ export default function AllProjects() {
                             </ul>
                                     </td>
                                 </tr>
-                
+                {/* project 3 */}
                                 <tr>
                                     <td className="py-4 pr-4 align-top text-sm">
                         <div>
@@ -123,6 +124,7 @@ export default function AllProjects() {
                             </ul>
                                     </td>
                              </tr>
+                             {/* project4 */}
                             <tr>
                                 <td className="py-4 pr-4 align-top text-sm">
                                     <div>
@@ -144,6 +146,7 @@ export default function AllProjects() {
                             </ul>
                                     </td>
                             </tr>
+                            {/* project5 */}
                             <tr>
                                 <td className="py-4 pr-4 align-top text-sm">
                                     <div>
@@ -165,6 +168,7 @@ export default function AllProjects() {
                             </ul>
                                     </td>
                             </tr>
+                            {/* project6 */}
                             <tr>
                                 <td className="py-4 pr-4 align-top text-sm">
                                     <div>
@@ -177,6 +181,30 @@ export default function AllProjects() {
                                 </td>
                                 <td className='hidden sm:block'>
                                     <div> <a href="https://umer-blog-website.vercel.app/">Blog Website Link </a></div>
+                                </td>
+                                <td className='hidden sm:block'>
+                                <ul>
+                                <li><Button>Typescript</Button></li>
+                                <li><Button>TailwindCSS</Button></li>
+                                <li><Button>React</Button></li>
+                                <li><Button>Next.js</Button></li>
+                
+                            </ul>
+                                    </td>
+                            </tr>
+                            {/* project7 */}
+                            <tr>
+                                <td className="py-4 pr-4 align-top text-sm">
+                                    <div>
+                                    <a href="https://tic-tac-toe-react-by-umer.vercel.app/" className='sm:pointer-events-none sm:cursor-default' >Tic Tac Toe GAME</a>
+                                        </div>
+                                </td>
+                                <td>
+                                    <div className='mt-2 text-sm leading-normal'> A classic Tic Tac Toe game built with React, showcasing interactive gameplay, efficient state management, and responsive design.
+                                    </div>
+                                </td>
+                                <td className='hidden sm:block'>
+                                    <div> <a href="https://tic-tac-toe-react-by-umer.vercel.app/">Game Website Link </a></div>
                                 </td>
                                 <td className='hidden sm:block'>
                                 <ul>
