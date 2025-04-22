@@ -15,31 +15,31 @@ function Home() {
 
 
 
-      <div className='mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-20 lg:px-24 lg:py-24 '>
-        <div className=" min-h-[100vh] max-h-auto min-w-[0vh] max-w-auto flex flex-col    lg:grid grid-cols-2  gap-4 ">
-          {/* container */}
-        
-          
-        
-            <div className='col-start-1  lg:row-start-1  '> 
-               <Headerofit/>
-               
+        <div className='mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-20 lg:px-24 lg:py-24 '>
+          <div className=" min-h-[100vh] max-h-auto min-w-[0vh] max-w-auto flex flex-col    lg:grid grid-cols-2  gap-4 ">
+            {/* container */}
+
+
+
+            <div className='col-start-1  lg:row-start-1  '>
+              <Headerofit />
+
             </div>
 
             <div className='lg: col-start-2 row-start-1  w-full h-full ' >
-               <Aboutsection/>
-              </div>
-        
-                 <div className='col-start-2 row-start-2'>
-                   <ProjectsComponent/>
-                   </div>
-        
-        
-                 <div className='col-start-2 row-start-3' >
-                   <Footercomponent/>
-                   </div>
+              <Aboutsection />
+            </div>
+
+            <div className='col-start-2 row-start-2'>
+              <ProjectsComponent />
+            </div>
+
+
+            <div className='col-start-2 row-start-3' >
+              <Footercomponent />
+            </div>
           </div>
-          
+
         </div>
       </div>
 
