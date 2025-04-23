@@ -1,5 +1,5 @@
 import Link from "next/link";
-import projects from "../[productId]/projectsdata";
+import projects from "../projectsFrontData/frontProj";
 import Image from "next/image";
 
 export default function ProjectsComponent() {
@@ -19,7 +19,7 @@ export default function ProjectsComponent() {
           >
             <div className=" sm:flex sm:flex-row md:flex md:flex-row md:w-auto ">
               <div className="max-h-48 ">
-                <Link href={`${project.demo}`}>
+                <Link href={`${project.link}`}>
                   {/* <img src={project.image} alt={project.name} width={800} height={200} /> */}
                   <h1 className="mb-4 text-[17px] font-extrabold font-mono leading-none tracking-tight text-white md:text-[20px]  lg:text-xl">
                     {project.name}
@@ -36,7 +36,7 @@ export default function ProjectsComponent() {
               <div className="max-w-[200px] max-h-[200px] mt-10 sm:mt-0 lg:w-[300px] lg:h-[300px]">
                 <div className="border border-slate-200/10  md:p-1 md:m-3 text-white">
                   <Image
-                    src={`${project.img}`}
+                    src={`${project.image}`}
                     alt={`${project.alt}`}
                     width={1000}
                     height={1000}
