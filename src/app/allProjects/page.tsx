@@ -1,6 +1,5 @@
-import "../globals.css"; // Ensure this includes Tailwind imports\
-import Button from "./components/Button/button";
-import ProjectComponent from "./components/Button/projectcomponent";
+import "../globals.css"; 
+import ProjectComponent from "./components/projectcomponent";
 export default function AllProjects() {
   interface ProjectProps {
     link: string;

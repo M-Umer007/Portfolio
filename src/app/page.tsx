@@ -1,4 +1,4 @@
-import './globals.css'; // Ensure this includes Tailwind imports\
+import './globals.css'; 
 import Headerofit from "../components/herosection/header/page";
 import Aboutsection from "../components/mainbody/aboutsection/page";
 import ProjectsComponent from '../components/mainbody/projectsthing/page';
