@@ -96,7 +96,7 @@ export default function AllProjects() {
   return (
     <div className="flex justify-center flex-col items-start top-0 bg-slate-900 min-h-screen ">
       <div className="bg-custom-radial">
-        <div className="mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-20 lg:px-24 lg:py-0">
+        <div className="mx-2 min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-20 lg:px-24 lg:py-0">
           <div className="sm:my-10 md:my-14 lg:my-20 ">
             <div className="flex flex-row items-center inset-y-10">
               <div>
@@ -127,18 +127,21 @@ export default function AllProjects() {
             <p className="text-white text-3xl my-0 py-0  sm:text-5xl lg:text-6xl">
               All Projects
             </p>
-            <table className="mt-12 w-full border-separate border-spacing-y-6 text-left">
+            <table className="mt-12 w-full border-separate border-spacing-y-20 ">
       <thead className="sticky top-0 z-10 border-b border-slate-300/10 bg-slate-900/75 px-2 py-4 backdrop-blur">
-        <tr>
-          <th className="py-4 pr-6 text-sm font-semibold text-slate-200">Project Name</th>
-          <th className="py-4 pr-6 text-sm font-semibold text-slate-200">Description</th>
-          <th className="hidden py-4 pr-6 text-sm font-semibold text-slate-200 sm:table-cell">Link</th>
-        </tr>
+         <tr>
+    <th className="py-4 pr-6 text-sm font-semibold text-slate-200 text-left w-1/5">Project Name</th>
+    <th className="py-4 pr-6 text-sm font-semibold text-slate-200 text-left w-2/5">Description</th>
+    <th className="hidden sm:table-cell py-4 pr-6 text-sm font-semibold text-slate-200 text-left w-1/5">Link</th>
+    <th className="hidden sm:table-cell py-4 pr-6 text-sm font-semibold text-slate-200 text-left w-1/5">Tags</th>
+  </tr>
       </thead>
       <tbody className="text-white">
+        
         {projects.map((project, index) => (
           <ProjectComponent key={index} {...project} />
         ))}
+
       </tbody>
     </table>
           </div>
