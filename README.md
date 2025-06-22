@@ -14,25 +14,5 @@ Technologies Used: <br/>
 Frontend: HTML, Tailwind CSS, JavaScript/TypeScript,React Next.js <br/>
 Deployment: Deployed using Vercel. <br/>
 
-#### Installation <br/>
-Clone the repository to your local machine: <br/>
-
-bash <br/>
-
-git clone https://github.com/M-Umer007/Portfolio.git <br/>
-cd Portfolio <br/>
-
-
-#Install dependencies: <br/>
-bash <br/>
-
-#npm install <br/>
-Run the project locally: <br/>
-bash <br/>
- 
-#npm run dev <br/>
-Visit http://localhost:3000 in your browser. <br/>
-
-
 # License <br/>
 This project is open-source and available under the MIT License. <br/>
