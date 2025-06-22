@@ -90,7 +90,31 @@ export default function AllProjects() {
         smLink:"https://movie-search-dchnkxu29htzjl8ksdz5qy.streamlit.app/",
         smName:"Movie Search Link",
         tagButtons:["Python", "Streamlit"],
-    }
+    },
+    {
+        link:"https://github.com/M-Umer007/report-card-system",
+        name:"Report Card System",
+        description:"A report card system made in python",
+        smLink:"https://github.com/M-Umer007/report-card-system",
+        smName:"report card system Github",
+        tagButtons:["Python"],
+    },
+    {
+        link:"https://github.com/M-Umer007/Custom-Encryption-Decryption",
+        name:"Custom Encryption Decryption tool",
+        description:"Basic encryption decryption tool that encrypts your message based on your difficulty level and then decrypts in python",
+        smLink:"https://github.com/M-Umer007/Custom-Encryption-Decryption",
+        smName:"Custom encryption decryption Github",
+        tagButtons:["Python"],
+    },
+    {
+        link:"https://github.com/M-Umer007/Expense-Tracker",
+        name:"Expense Tracker ",
+        description:"An expense tracker with an extensive visually appealing graph",
+        smLink:"https://github.com/M-Umer007/Expense-Tracker",
+        smName:"Expense Tracker Github",
+        tagButtons:["Python", "plotly-dash"],
+    },
   ];
 
   return (
